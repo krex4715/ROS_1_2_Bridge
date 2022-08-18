@@ -8,8 +8,6 @@ ros2 run ros1_bridge bridge_12
 ```
 
 
-
-# ---------------------
 # Bridge communication between ROS 1 and ROS 2
 
 This package provides a network bridge which enables the exchange of messages between ROS 1 and ROS 2.
