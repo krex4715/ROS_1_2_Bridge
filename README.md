@@ -3,6 +3,8 @@
 
 ```bash
 cd your_ws/src  
+git clone https://github.com/krex4715/ROS_1_2_Bridge
+cd ../
 colcon build --symlink-install
 ros2 run ros1_bridge bridge_12
 ```
